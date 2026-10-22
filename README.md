@@ -42,6 +42,10 @@ tests/        automated tests
 2. Load the sheet `Dataset (from Q2 2016)`.
 3. Filter to the latest `period` and to the three corridors.
 
+## Data Dictionary
+
+See [docs/data_dictionary.md](docs/data_dictionary.md) for survey fields, CSV columns, computed fields, and data sources.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
