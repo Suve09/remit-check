@@ -46,6 +46,9 @@ tests/        automated tests
 
 See [docs/data_dictionary.md](docs/data_dictionary.md) for survey fields, CSV columns, computed fields, and data sources.
 
+## Project Charter
+
+See [docs/project_charter.md](docs/project_charter.md) for the scope, users, success metrics, and schedule.
 ## License
 
 MIT. See [LICENSE](LICENSE).
