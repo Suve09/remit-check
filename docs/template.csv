@@ -1,0 +1,11 @@
+transfer_date,destination_country,destination_currency,provider,amount_usd,fee_usd,offered_rate,received_local,funding_method,payout_method,tax_line_shown,tax_usd,send_frequency,community_area
+2026-03-14,Mexico,MXN,Western Union,300.0,4.99,17.2,5160.0,cash,cash_pickup,no,,twice_monthly,South Lawndale
+2026-03-20,Mexico,MXN,Remitly,200.0,3.99,17.35,3470.0,debit_card,bank_deposit,no,,monthly,Lower West Side
+2026-04-02,Mexico,MXN,Xoom,150.0,0.0,17.1,2565.0,bank_account,bank_deposit,no,,weekly,Brighton Park
+2026-04-11,Mexico,MXN,Ria,250.0,5.0,17.05,4262.5,cash,cash_pickup,yes,2.5,twice_monthly,Gage Park
+2026-04-18,India,INR,Remitly,500.0,3.99,86.2,43100.0,bank_account,bank_deposit,no,,monthly,West Ridge
+2026-05-03,India,INR,Wise,400.0,2.45,86.9,34760.0,debit_card,bank_deposit,no,,monthly,Albany Park
+2026-05-09,India,INR,Western Union,300.0,4.99,85.8,25740.0,cash,cash_pickup,unsure,,few_per_year,
+2026-05-21,Philippines,PHP,Remitly,200.0,3.49,56.1,11220.0,debit_card,mobile_wallet,no,,monthly,Avondale
+2026-06-06,Philippines,PHP,MoneyGram,350.0,5.99,55.7,19495.0,credit_card,bank_deposit,no,,monthly,Armour Square
+2026-06-13,Philippines,PHP,Western Union,100.0,3.99,55.4,5540.0,money_order,cash_pickup,no,,few_per_year,Belmont Cragin
