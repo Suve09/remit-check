@@ -43,9 +43,10 @@ def _read_cache(path):
     return pd.DataFrame(columns=CACHE_COLUMNS)
 
 
-def get_mid_rate(currency, date, cache_path=DEFAULT_CACHE, fetcher=fetch_rates):
+def get_mid_rate(currency, date, cache_path=DEFAULT_CACHE, fetcher=fetch_rates, save=True):
     """Mid-market rate (local currency per USD) for a currency on a date like '2026-03-14'.
-    Reads the cache first. If the date is missing, fetches it and saves it."""
+    Reads the cache first. If the date is missing, fetches it and (if save=True) saves it.
+    The web app uses save=False so it never writes a file."""
     if currency not in CURRENCIES:
         raise ValueError(f"Unsupported currency: {currency!r}. Use one of {CURRENCIES}.")
     date = str(date)
@@ -60,8 +61,10 @@ def get_mid_rate(currency, date, cache_path=DEFAULT_CACHE, fetcher=fetch_rates):
         return float(hit.iloc[0]["usd_to_local"])
 
     new_rows = fetcher(date)
-    cache = pd.concat([cache, pd.DataFrame(new_rows)], ignore_index=True)
+    new_df = pd.DataFrame(new_rows)
+    cache = new_df if cache.empty else pd.concat([cache, new_df], ignore_index=True)
     cache = cache.drop_duplicates(["requested_date", "currency"])
-    os.makedirs(os.path.dirname(cache_path) or ".", exist_ok=True)
-    cache.to_csv(cache_path, index=False)
+    if save:
+        os.makedirs(os.path.dirname(cache_path) or ".", exist_ok=True)
+        cache.to_csv(cache_path, index=False)
     return float(next(row["usd_to_local"] for row in new_rows if row["currency"] == currency))
