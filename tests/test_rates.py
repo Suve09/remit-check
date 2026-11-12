@@ -72,3 +72,10 @@ def test_unsupported_currency_raises(tmp_path):
 def test_bad_date_raises(tmp_path):
     with pytest.raises(ValueError):
         get_mid_rate("MXN", "03/13/2026", cache_path=tmp_path / "c.csv", fetcher=FakeFetcher())
+
+
+def test_save_false_does_not_write_a_file(tmp_path):
+    path = tmp_path / "c.csv"
+    rate = get_mid_rate("MXN", "2026-03-13", cache_path=path, fetcher=FakeFetcher(), save=False)
+    assert rate == 17.85
+    assert not path.exists()
