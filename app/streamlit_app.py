@@ -35,11 +35,11 @@ TEXT = {
         "tax_opts": {"yes": "Yes", "no": "No", "unsure": "Not sure"},
         "freq_opts": {"weekly": "Every week", "twice_monthly": "Twice a month",
                       "monthly": "Every month", "few_per_year": "A few times a year"},
-        "result": "This transfer cost you **${total:,.2f}**, or **{pct:.1f} percent** of the amount sent.",
-        "breakdown": "Fee: ${fee:,.2f}  |  Lost in the exchange rate: ${spread:,.2f}  |  Tax: ${tax:,.2f} ({label})",
+        "result": "This transfer cost you **\\${total:,.2f}**, or **{pct:.1f} percent** of the amount sent.",
+        "breakdown": "Fee: \\${fee:,.2f}  |  Lost in the exchange rate: \\${spread:,.2f}  |  Tax: \\${tax:,.2f} ({label})",
         "label_estimated": "estimated", "label_reported": "from your receipt", "label_none": "none",
         "lost": "Compared with the mid-market rate, your family received about **{lost:,.0f} {cur}** less.",
-        "annual": "At this pace, about **${annual:,.2f}** a year.",
+        "annual": "At this pace, about **\\${annual:,.2f}** a year.",
         "mid_used": "Mid-market rate used: {mid} {cur} per dollar (ECB reference rate for {day}).",
         "tax_note": "Information, not advice: paying from a bank account or debit card avoids this tax.",
         "error": "We could not check this transfer: {msg}",
@@ -65,11 +65,11 @@ TEXT = {
         "tax_opts": {"yes": "Sí", "no": "No", "unsure": "No estoy seguro(a)"},
         "freq_opts": {"weekly": "Cada semana", "twice_monthly": "Dos veces al mes",
                       "monthly": "Cada mes", "few_per_year": "Algunas veces al año"},
-        "result": "Este envío le costó **${total:,.2f}**, o **{pct:.1f} por ciento** de lo enviado.",
-        "breakdown": "Comisión: ${fee:,.2f}  |  Perdido en el tipo de cambio: ${spread:,.2f}  |  Impuesto: ${tax:,.2f} ({label})",
+        "result": "Este envío le costó **\\${total:,.2f}**, o **{pct:.1f} por ciento** de lo enviado.",
+        "breakdown": "Comisión: \\${fee:,.2f}  |  Perdido en el tipo de cambio: \\${spread:,.2f}  |  Impuesto: \\${tax:,.2f} ({label})",
         "label_estimated": "estimado", "label_reported": "según su recibo", "label_none": "ninguno",
         "lost": "Comparado con el tipo de cambio de mercado, su familia recibió unos **{lost:,.0f} {cur}** menos.",
-        "annual": "A este ritmo, unos **${annual:,.2f}** al año.",
+        "annual": "A este ritmo, unos **\\${annual:,.2f}** al año.",
         "mid_used": "Tipo de cambio de mercado usado: {mid} {cur} por dólar (tasa de referencia del BCE para {day}).",
         "tax_note": "Información, no consejo: pagar desde una cuenta bancaria o con tarjeta de débito evita este impuesto.",
         "error": "No pudimos revisar este envío: {msg}",
@@ -124,4 +124,3 @@ if st.button(t["button"]):
             if r["tax_label"] == "estimated":
                 st.info(t["tax_note"])
             st.caption(t["mid_used"].format(mid=mid, cur=cur, day=day.isoformat()))
-
