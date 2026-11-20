@@ -1,0 +1,201 @@
+transfer_date,destination_country,destination_currency,provider,amount_usd,fee_usd,offered_rate,received_local,funding_method,payout_method,tax_line_shown,tax_usd,send_frequency,community_area,is_synthetic
+2026-11-09,Mexico,MXN,Ria,500.0,2.31,18.4288,9214.4,bank_account,cash_pickup,no,,monthly,Chicago Lawn,True
+2026-10-07,Mexico,MXN,Remitly,400.0,2.01,18.5188,7407.52,cash,cash_pickup,yes,4.0,monthly,Hermosa,True
+2026-10-25,India,INR,Remitly,200.0,1.41,86.2884,17257.68,credit_card,bank_deposit,no,,few_per_year,Albany Park,True
+2026-10-20,Mexico,MXN,MoneyGram,500.0,3.86,17.978,8989.0,cash,cash_pickup,no,,weekly,Avondale,True
+2026-11-08,Mexico,MXN,Ria,300.0,4.29,18.2547,5476.41,bank_account,bank_deposit,no,,few_per_year,Archer Heights,True
+2026-10-09,Mexico,MXN,Wise,600.0,3.32,18.583,11149.8,bank_account,bank_deposit,no,,monthly,Lower West Side,True
+2026-10-08,Mexico,MXN,Remitly,600.0,1.6,18.2856,10971.36,bank_account,cash_pickup,no,,monthly,Belmont Cragin,True
+2026-11-02,Mexico,MXN,Xoom,500.0,3.99,17.8911,8945.55,credit_card,cash_pickup,no,,monthly,Hermosa,True
+2026-11-03,Mexico,MXN,Western Union,250.0,5.46,17.8511,4462.77,bank_account,mobile_wallet,no,,few_per_year,Archer Heights,True
+2026-10-03,Mexico,MXN,Remitly,400.0,0.51,18.3407,7336.28,bank_account,cash_pickup,no,,monthly,Gage Park,True
+2026-10-05,Philippines,PHP,Western Union,500.0,4.9,54.6336,27316.8,cash,bank_deposit,no,,monthly,Rogers Park,True
+2026-10-06,Mexico,MXN,Western Union,300.0,6.08,17.5923,5277.69,cash,cash_pickup,no,,monthly,Brighton Park,True
+2026-10-21,Mexico,MXN,Western Union,500.0,6.14,17.9159,8957.95,debit_card,bank_deposit,no,,monthly,Albany Park,True
+2026-10-19,Philippines,PHP,Wise,200.0,1.63,57.8591,11571.82,bank_account,cash_pickup,no,,weekly,Avondale,True
+2026-10-13,Philippines,PHP,Remitly,600.0,1.72,56.6811,34008.66,bank_account,bank_deposit,no,,twice_monthly,Lower West Side,True
+2026-10-31,Mexico,MXN,Western Union,300.0,3.87,18.1322,5439.66,credit_card,bank_deposit,no,,twice_monthly,Gage Park,True
+2026-10-22,Mexico,MXN,Western Union,400.0,3.7,17.973,7189.2,cash,cash_pickup,no,,monthly,Brighton Park,True
+2026-10-29,India,INR,Ria,100.0,4.11,84.3042,8430.42,cash,bank_deposit,unsure,,few_per_year,West Ridge,True
+2026-10-09,Mexico,MXN,Remitly,100.0,2.68,18.1884,1818.84,bank_account,cash_pickup,no,,twice_monthly,Portage Park,True
+2026-10-27,Mexico,MXN,Ria,300.0,4.03,18.2429,5472.87,cash,bank_deposit,no,,twice_monthly,Brighton Park,True
+2026-10-15,Mexico,MXN,Ria,500.0,3.91,18.3893,9194.65,bank_account,cash_pickup,no,,weekly,South Lawndale,True
+2026-10-23,Mexico,MXN,MoneyGram,500.0,4.82,18.2323,9116.15,bank_account,mobile_wallet,no,,monthly,Archer Heights,True
+2026-10-14,India,INR,Remitly,200.0,2.98,85.9696,17193.92,bank_account,bank_deposit,no,,monthly,Albany Park,True
+2026-10-12,India,INR,Western Union,250.0,5.7,84.0509,21012.72,cash,bank_deposit,no,,monthly,South Lawndale,True
+2026-10-17,Mexico,MXN,Remitly,150.0,1.82,18.1959,2729.39,cash,bank_deposit,no,,monthly,South Lawndale,True
+2026-10-21,Mexico,MXN,Western Union,150.0,5.85,17.7498,2662.47,credit_card,cash_pickup,no,,monthly,West Ridge,True
+2026-10-08,India,INR,Remitly,300.0,1.78,86.231,25869.3,bank_account,mobile_wallet,no,,monthly,Portage Park,True
+2026-10-19,India,INR,Xoom,300.0,3.62,84.1076,25232.28,cash,cash_pickup,unsure,,monthly,Gage Park,True
+2026-10-22,Philippines,PHP,Remitly,150.0,1.76,56.6691,8500.36,bank_account,bank_deposit,no,,twice_monthly,South Lawndale,True
+2026-10-20,Philippines,PHP,Western Union,150.0,5.31,55.5173,8327.59,debit_card,bank_deposit,no,,weekly,Albany Park,True
+2026-10-02,Mexico,MXN,MoneyGram,200.0,4.7,18.1653,3633.06,bank_account,bank_deposit,no,,monthly,Rogers Park,True
+2026-10-21,India,INR,MoneyGram,250.0,4.63,85.4134,21353.35,cash,bank_deposit,no,,twice_monthly,West Ridge,True
+2026-11-10,Mexico,MXN,Western Union,100.0,3.8,18.1633,1816.33,debit_card,bank_deposit,no,,monthly,Chicago Lawn,True
+2026-10-26,Mexico,MXN,Wise,200.0,0.42,18.4344,3686.88,debit_card,mobile_wallet,no,,monthly,Archer Heights,True
+2026-11-05,India,INR,Ria,250.0,3.2,85.4078,21351.95,debit_card,bank_deposit,no,,monthly,Rogers Park,True
+2026-11-03,India,INR,MoneyGram,200.0,4.18,85.2131,17042.62,bank_account,mobile_wallet,no,,monthly,Hermosa,True
+2026-10-02,India,INR,Western Union,300.0,4.4,84.6399,25391.97,bank_account,bank_deposit,no,,monthly,Portage Park,True
+2026-10-11,India,INR,MoneyGram,100.0,5.25,85.11,8511.0,credit_card,bank_deposit,no,,few_per_year,South Lawndale,True
+2026-10-11,Mexico,MXN,MoneyGram,500.0,4.48,17.9057,8952.85,debit_card,cash_pickup,no,,few_per_year,Gage Park,True
+2026-10-28,Mexico,MXN,Western Union,300.0,5.5,17.6274,5288.22,cash,cash_pickup,no,,twice_monthly,Chicago Lawn,True
+2026-10-08,India,INR,Wise,500.0,2.96,86.8143,43407.15,bank_account,bank_deposit,no,,monthly,Portage Park,True
+2026-10-16,India,INR,Western Union,300.0,5.63,84.2474,25274.22,bank_account,bank_deposit,no,,twice_monthly,Edgewater,True
+2026-10-08,Mexico,MXN,Wise,150.0,1.69,18.367,2755.05,bank_account,mobile_wallet,no,,monthly,Brighton Park,True
+2026-10-20,Mexico,MXN,Remitly,600.0,1.83,18.2745,10964.7,credit_card,cash_pickup,no,,twice_monthly,West Ridge,True
+2026-10-26,Mexico,MXN,Ria,500.0,2.64,17.8524,8926.2,bank_account,cash_pickup,no,,twice_monthly,Brighton Park,True
+2026-10-29,Mexico,MXN,Wise,300.0,2.54,18.6,5580.0,bank_account,bank_deposit,no,,monthly,West Ridge,True
+2026-11-10,Mexico,MXN,MoneyGram,150.0,3.85,17.6907,2653.61,debit_card,bank_deposit,no,,twice_monthly,Gage Park,True
+2026-10-27,Mexico,MXN,Remitly,250.0,1.76,18.1624,4540.6,cash,bank_deposit,no,,twice_monthly,Avondale,True
+2026-10-12,Philippines,PHP,Wise,500.0,1.66,57.7611,28880.55,bank_account,bank_deposit,no,,weekly,Albany Park,True
+2026-10-22,Mexico,MXN,MoneyGram,600.0,3.31,17.817,10690.2,debit_card,cash_pickup,no,,weekly,Chicago Lawn,True
+2026-11-09,India,INR,Remitly,250.0,1.36,85.5945,21398.62,bank_account,bank_deposit,no,,monthly,South Lawndale,True
+2026-10-14,India,INR,Ria,100.0,3.96,85.8447,8584.47,credit_card,mobile_wallet,no,,monthly,Brighton Park,True
+2026-10-12,Mexico,MXN,Ria,500.0,3.07,18.3079,9153.95,cash,bank_deposit,no,,monthly,Albany Park,True
+2026-10-21,Mexico,MXN,Xoom,400.0,3.6,18.1558,7262.32,cash,cash_pickup,yes,4.0,monthly,South Lawndale,True
+2026-10-26,Mexico,MXN,Western Union,300.0,4.97,17.6065,5281.95,cash,bank_deposit,unsure,,twice_monthly,Albany Park,True
+2026-11-02,India,INR,Wise,500.0,1.94,88.0,44000.0,bank_account,bank_deposit,no,,few_per_year,West Ridge,True
+2026-10-17,Mexico,MXN,Remitly,300.0,3.01,17.9159,5374.77,bank_account,bank_deposit,no,,few_per_year,Lower West Side,True
+2026-11-03,Mexico,MXN,Wise,150.0,4.49,18.6,2790.0,bank_account,bank_deposit,no,,twice_monthly,Brighton Park,True
+2026-10-26,Philippines,PHP,Remitly,400.0,2.79,56.6007,22640.28,bank_account,bank_deposit,no,,monthly,Avondale,True
+2026-10-04,Mexico,MXN,Remitly,200.0,1.94,18.3992,3679.84,bank_account,cash_pickup,no,,monthly,Portage Park,True
+2026-10-11,Mexico,MXN,MoneyGram,200.0,5.82,17.6557,3531.14,bank_account,bank_deposit,no,,twice_monthly,South Lawndale,True
+2026-11-04,Mexico,MXN,Western Union,600.0,4.0,17.844,10706.4,cash,bank_deposit,no,,weekly,Avondale,True
+2026-10-17,Mexico,MXN,Wise,200.0,2.45,18.5486,3709.72,bank_account,cash_pickup,no,,twice_monthly,South Lawndale,True
+2026-11-01,Mexico,MXN,Wise,150.0,1.75,18.4331,2764.97,bank_account,bank_deposit,no,,twice_monthly,Brighton Park,True
+2026-10-29,Philippines,PHP,Ria,300.0,2.76,56.4387,16931.61,debit_card,bank_deposit,no,,few_per_year,Albany Park,True
+2026-10-11,Mexico,MXN,Wise,200.0,2.47,18.5807,3716.14,debit_card,cash_pickup,no,,twice_monthly,Brighton Park,True
+2026-10-19,Mexico,MXN,Wise,300.0,4.59,18.4316,5529.48,debit_card,cash_pickup,no,,monthly,Archer Heights,True
+2026-10-23,Mexico,MXN,Ria,250.0,4.0,18.2801,4570.03,cash,cash_pickup,no,,monthly,West Ridge,True
+2026-10-23,Mexico,MXN,Xoom,500.0,3.72,17.9407,8970.35,bank_account,cash_pickup,no,,monthly,Hermosa,True
+2026-10-07,Philippines,PHP,Xoom,250.0,3.91,56.078,14019.5,cash,bank_deposit,no,,twice_monthly,West Ridge,True
+2026-10-11,Mexico,MXN,Ria,400.0,3.05,18.1567,7262.68,cash,bank_deposit,no,,monthly,Gage Park,True
+2026-10-22,Philippines,PHP,Remitly,150.0,2.02,57.6928,8653.92,bank_account,mobile_wallet,no,,monthly,Gage Park,True
+2026-10-27,Mexico,MXN,MoneyGram,400.0,4.2,18.089,7235.6,debit_card,cash_pickup,no,,weekly,Brighton Park,True
+2026-10-14,Mexico,MXN,Western Union,150.0,4.09,17.9608,2694.12,debit_card,bank_deposit,no,,twice_monthly,South Lawndale,True
+2026-11-07,Mexico,MXN,Western Union,200.0,5.44,17.9552,3591.04,bank_account,cash_pickup,no,,weekly,West Ridge,True
+2026-10-30,Mexico,MXN,Xoom,150.0,2.66,18.1455,2721.82,debit_card,cash_pickup,no,,monthly,South Lawndale,True
+2026-10-18,Mexico,MXN,Xoom,300.0,4.59,18.0584,5417.52,cash,cash_pickup,yes,3.0,few_per_year,South Lawndale,True
+2026-10-03,Mexico,MXN,Wise,200.0,2.2,18.6,3720.0,bank_account,bank_deposit,no,,twice_monthly,Portage Park,True
+2026-10-13,Philippines,PHP,Ria,500.0,3.36,56.6401,28320.05,credit_card,mobile_wallet,no,,monthly,Lower West Side,True
+2026-10-17,Mexico,MXN,Western Union,150.0,4.98,17.8383,2675.74,debit_card,bank_deposit,no,,weekly,Avondale,True
+2026-10-15,Mexico,MXN,Ria,500.0,2.99,18.1901,9095.05,bank_account,cash_pickup,no,,monthly,Belmont Cragin,True
+2026-10-11,Mexico,MXN,Western Union,300.0,4.19,17.9112,5373.36,debit_card,bank_deposit,no,,monthly,Belmont Cragin,True
+2026-11-06,Mexico,MXN,MoneyGram,200.0,4.35,17.9432,3588.64,cash,cash_pickup,unsure,,few_per_year,Chicago Lawn,True
+2026-10-01,Philippines,PHP,Ria,200.0,3.23,56.9274,11385.48,bank_account,bank_deposit,no,,monthly,South Lawndale,True
+2026-10-17,India,INR,Remitly,600.0,0.99,85.2511,51150.66,cash,cash_pickup,yes,6.0,twice_monthly,Archer Heights,True
+2026-10-22,Mexico,MXN,MoneyGram,600.0,4.06,18.1231,10873.86,cash,cash_pickup,unsure,,few_per_year,Brighton Park,True
+2026-10-31,Mexico,MXN,Western Union,400.0,5.0,17.9436,7177.44,credit_card,mobile_wallet,no,,twice_monthly,South Lawndale,True
+2026-10-25,India,INR,MoneyGram,300.0,4.65,84.9722,25491.66,bank_account,mobile_wallet,no,,monthly,South Lawndale,True
+2026-10-20,Mexico,MXN,Western Union,300.0,4.72,17.8367,5351.01,cash,bank_deposit,unsure,,twice_monthly,Chicago Lawn,True
+2026-10-19,Mexico,MXN,MoneyGram,300.0,4.65,18.0117,5403.51,debit_card,bank_deposit,no,,monthly,Chicago Lawn,True
+2026-10-26,Mexico,MXN,Wise,300.0,2.69,18.4475,5534.25,debit_card,cash_pickup,no,,twice_monthly,Albany Park,True
+2026-11-02,Philippines,PHP,Ria,300.0,3.24,56.9522,17085.66,bank_account,bank_deposit,no,,twice_monthly,Chicago Lawn,True
+2026-10-04,Philippines,PHP,MoneyGram,300.0,4.3,56.1803,16854.09,credit_card,bank_deposit,no,,monthly,Chicago Lawn,True
+2026-11-04,India,INR,Ria,500.0,3.25,85.1049,42552.45,credit_card,bank_deposit,no,,few_per_year,Rogers Park,True
+2026-10-27,Mexico,MXN,Remitly,600.0,0.49,18.3316,10998.96,cash,bank_deposit,yes,6.0,monthly,Archer Heights,True
+2026-10-02,Philippines,PHP,MoneyGram,200.0,3.77,56.1343,11226.86,bank_account,mobile_wallet,no,,twice_monthly,Brighton Park,True
+2026-10-14,Mexico,MXN,MoneyGram,200.0,4.02,17.9109,3582.18,cash,bank_deposit,yes,2.0,twice_monthly,Belmont Cragin,True
+2026-10-05,Mexico,MXN,Ria,150.0,2.89,18.0693,2710.39,bank_account,bank_deposit,no,,monthly,West Ridge,True
+2026-10-22,Mexico,MXN,MoneyGram,150.0,4.74,18.0348,2705.22,bank_account,cash_pickup,no,,monthly,South Lawndale,True
+2026-10-28,Mexico,MXN,Western Union,400.0,6.69,17.9573,7182.92,bank_account,cash_pickup,no,,monthly,South Lawndale,True
+2026-10-04,Mexico,MXN,Ria,150.0,3.23,18.1161,2717.41,debit_card,cash_pickup,no,,monthly,Belmont Cragin,True
+2026-10-10,Mexico,MXN,Remitly,500.0,2.0,18.2495,9124.75,credit_card,bank_deposit,no,,monthly,Chicago Lawn,True
+2026-11-10,Mexico,MXN,Remitly,150.0,1.74,18.4544,2768.16,bank_account,bank_deposit,no,,weekly,Chicago Lawn,True
+2026-10-12,Mexico,MXN,Ria,600.0,3.96,18.2304,10938.24,bank_account,cash_pickup,no,,monthly,Gage Park,True
+2026-11-07,Mexico,MXN,MoneyGram,400.0,4.17,17.713,7085.2,bank_account,bank_deposit,no,,monthly,Archer Heights,True
+2026-10-21,Mexico,MXN,Xoom,250.0,4.84,17.9122,4478.05,cash,bank_deposit,no,,monthly,Lower West Side,True
+2026-10-28,Mexico,MXN,MoneyGram,300.0,3.67,18.0812,5424.36,bank_account,mobile_wallet,no,,monthly,Belmont Cragin,True
+2026-10-24,Mexico,MXN,MoneyGram,100.0,4.55,18.0957,1809.57,cash,bank_deposit,no,,monthly,South Lawndale,True
+2026-10-20,Mexico,MXN,Remitly,500.0,3.4,18.3613,9180.65,cash,bank_deposit,yes,5.0,few_per_year,Lower West Side,True
+2026-11-09,Mexico,MXN,Western Union,100.0,5.44,17.8124,1781.24,bank_account,mobile_wallet,no,,monthly,South Lawndale,True
+2026-10-05,India,INR,Ria,600.0,3.89,85.6771,51406.26,bank_account,bank_deposit,no,,few_per_year,Hermosa,True
+2026-10-19,Mexico,MXN,Remitly,300.0,2.84,18.2842,5485.26,bank_account,cash_pickup,no,,monthly,Archer Heights,True
+2026-10-11,India,INR,Remitly,200.0,2.75,86.9869,17397.38,cash,bank_deposit,unsure,,monthly,Avondale,True
+2026-10-19,Mexico,MXN,Xoom,300.0,4.37,18.1867,5456.01,debit_card,cash_pickup,no,,monthly,South Lawndale,True
+2026-10-02,Mexico,MXN,Western Union,400.0,4.55,17.8687,7147.48,cash,cash_pickup,no,,few_per_year,Brighton Park,True
+2026-11-05,Mexico,MXN,MoneyGram,150.0,4.57,17.9655,2694.82,debit_card,bank_deposit,no,,twice_monthly,Gage Park,True
+2026-10-09,Mexico,MXN,Ria,150.0,3.64,18.1868,2728.02,cash,cash_pickup,unsure,,twice_monthly,Brighton Park,True
+2026-10-31,Mexico,MXN,Western Union,250.0,4.23,17.9442,4486.05,cash,cash_pickup,unsure,,weekly,West Ridge,True
+2026-10-18,Mexico,MXN,Xoom,500.0,4.97,17.9843,8992.15,bank_account,bank_deposit,no,,monthly,Rogers Park,True
+2026-10-20,Philippines,PHP,Western Union,400.0,3.9,55.1679,22067.16,credit_card,bank_deposit,no,,twice_monthly,Lower West Side,True
+2026-10-04,Philippines,PHP,Western Union,300.0,4.91,55.4397,16631.91,credit_card,mobile_wallet,no,,few_per_year,Gage Park,True
+2026-10-21,Mexico,MXN,Wise,200.0,2.61,18.5156,3703.12,bank_account,cash_pickup,no,,weekly,Belmont Cragin,True
+2026-11-01,Mexico,MXN,MoneyGram,300.0,3.43,18.0009,5400.27,cash,cash_pickup,no,,few_per_year,Belmont Cragin,True
+2026-11-03,Mexico,MXN,Remitly,300.0,2.38,18.3922,5517.66,credit_card,cash_pickup,no,,twice_monthly,Archer Heights,True
+2026-10-31,Philippines,PHP,Western Union,100.0,3.3,55.2411,5524.11,cash,bank_deposit,no,,monthly,Avondale,True
+2026-10-14,India,INR,MoneyGram,150.0,4.45,84.3968,12659.52,debit_card,bank_deposit,no,,monthly,Avondale,True
+2026-10-09,Mexico,MXN,Remitly,500.0,1.51,18.3065,9153.25,bank_account,mobile_wallet,no,,monthly,Avondale,True
+2026-10-26,Mexico,MXN,MoneyGram,300.0,4.17,17.68,5304.0,debit_card,bank_deposit,no,,twice_monthly,Archer Heights,True
+2026-10-16,Mexico,MXN,Ria,600.0,2.38,18.2377,10942.62,debit_card,cash_pickup,no,,monthly,Hermosa,True
+2026-10-15,Philippines,PHP,MoneyGram,150.0,5.31,56.5692,8485.38,cash,bank_deposit,yes,1.5,few_per_year,West Ridge,True
+2026-11-10,Mexico,MXN,Ria,250.0,4.28,18.3233,4580.82,bank_account,cash_pickup,no,,weekly,Hermosa,True
+2026-10-27,India,INR,MoneyGram,150.0,4.61,86.3921,12958.82,bank_account,cash_pickup,no,,weekly,Avondale,True
+2026-10-15,Mexico,MXN,Remitly,500.0,2.4,18.4048,9202.4,cash,cash_pickup,yes,5.0,twice_monthly,Avondale,True
+2026-11-03,Mexico,MXN,MoneyGram,200.0,3.91,17.9968,3599.36,debit_card,cash_pickup,no,,monthly,Norwood Park,True
+2026-10-26,Mexico,MXN,Ria,250.0,3.77,18.2763,4569.07,cash,mobile_wallet,no,,monthly,Avondale,True
+2026-10-02,India,INR,Western Union,100.0,6.67,85.7937,8579.37,cash,bank_deposit,yes,1.0,monthly,Chicago Lawn,True
+2026-10-24,Mexico,MXN,Western Union,100.0,5.46,17.6013,1760.13,cash,bank_deposit,yes,1.0,monthly,Brighton Park,True
+2026-10-26,Mexico,MXN,Xoom,400.0,3.07,17.9844,7193.76,bank_account,cash_pickup,no,,few_per_year,Rogers Park,True
+2026-10-20,Mexico,MXN,Western Union,150.0,5.45,17.8099,2671.48,cash,bank_deposit,yes,1.5,weekly,Brighton Park,True
+2026-10-23,Philippines,PHP,MoneyGram,300.0,4.78,55.4957,16648.71,cash,bank_deposit,yes,3.0,twice_monthly,Albany Park,True
+2026-11-08,Philippines,PHP,Western Union,200.0,4.79,55.6133,11122.66,bank_account,cash_pickup,no,,few_per_year,Belmont Cragin,True
+2026-11-08,Mexico,MXN,MoneyGram,400.0,4.11,18.0046,7201.84,bank_account,bank_deposit,no,,monthly,South Lawndale,True
+2026-11-02,Philippines,PHP,Western Union,400.0,5.39,55.5883,22235.32,bank_account,mobile_wallet,no,,monthly,Archer Heights,True
+2026-10-02,Philippines,PHP,Western Union,600.0,5.69,56.16,33696.0,cash,bank_deposit,no,,monthly,Belmont Cragin,True
+2026-10-07,Mexico,MXN,MoneyGram,300.0,5.25,17.8971,5369.13,credit_card,cash_pickup,no,,twice_monthly,Archer Heights,True
+2026-10-18,Philippines,PHP,Western Union,300.0,4.54,55.8306,16749.18,bank_account,bank_deposit,no,,twice_monthly,Portage Park,True
+2026-10-26,Philippines,PHP,Xoom,200.0,3.59,56.0278,11205.56,credit_card,mobile_wallet,no,,monthly,Albany Park,True
+2026-10-09,Mexico,MXN,Western Union,600.0,5.13,17.9447,10766.82,debit_card,cash_pickup,no,,monthly,Gage Park,True
+2026-10-02,India,INR,Western Union,250.0,5.31,84.163,21040.75,debit_card,bank_deposit,no,,monthly,Avondale,True
+2026-11-03,Mexico,MXN,Remitly,100.0,0.79,18.1154,1811.54,debit_card,cash_pickup,no,,monthly,Albany Park,True
+2026-11-10,Mexico,MXN,Western Union,150.0,4.04,17.813,2671.95,bank_account,bank_deposit,no,,twice_monthly,Portage Park,True
+2026-10-09,Mexico,MXN,MoneyGram,300.0,4.43,18.0461,5413.83,debit_card,cash_pickup,no,,few_per_year,Archer Heights,True
+2026-10-13,Mexico,MXN,Ria,150.0,3.1,18.3185,2747.78,debit_card,bank_deposit,no,,monthly,Archer Heights,True
+2026-10-26,Mexico,MXN,Western Union,200.0,5.69,17.7216,3544.32,credit_card,cash_pickup,no,,monthly,Gage Park,True
+2026-10-13,Mexico,MXN,Western Union,250.0,5.27,18.153,4538.25,bank_account,bank_deposit,no,,few_per_year,Chicago Lawn,True
+2026-10-31,Mexico,MXN,Remitly,100.0,0.49,18.2014,1820.14,bank_account,mobile_wallet,no,,weekly,West Ridge,True
+2026-11-08,Mexico,MXN,Wise,250.0,2.67,18.2995,4574.88,bank_account,bank_deposit,no,,few_per_year,West Ridge,True
+2026-11-10,Philippines,PHP,Western Union,150.0,4.75,55.3901,8308.51,debit_card,bank_deposit,no,,few_per_year,South Lawndale,True
+2026-10-18,Mexico,MXN,Western Union,300.0,5.03,17.8636,5359.08,credit_card,bank_deposit,no,,monthly,South Lawndale,True
+2026-10-09,India,INR,Remitly,500.0,2.66,86.7318,43365.9,bank_account,mobile_wallet,no,,monthly,Norwood Park,True
+2026-10-14,Mexico,MXN,Remitly,200.0,1.7,18.265,3653.0,cash,cash_pickup,yes,2.0,monthly,Hermosa,True
+2026-10-26,Philippines,PHP,Remitly,200.0,0.29,57.0608,11412.16,bank_account,bank_deposit,no,,weekly,Avondale,True
+2026-10-29,Mexico,MXN,Wise,250.0,3.03,18.6,4650.0,debit_card,bank_deposit,no,,monthly,Hermosa,True
+2026-11-10,Mexico,MXN,Remitly,600.0,2.56,18.5908,11154.48,bank_account,bank_deposit,no,,monthly,Archer Heights,True
+2026-10-02,Mexico,MXN,Xoom,400.0,4.94,17.9341,7173.64,cash,bank_deposit,no,,twice_monthly,Archer Heights,True
+2026-11-02,Philippines,PHP,Western Union,300.0,5.81,55.5343,16660.29,bank_account,bank_deposit,no,,monthly,Chicago Lawn,True
+2026-10-19,India,INR,Western Union,500.0,5.5,85.1331,42566.55,cash,cash_pickup,no,,twice_monthly,Archer Heights,True
+2026-10-09,Mexico,MXN,Remitly,100.0,2.64,18.4358,1843.58,cash,bank_deposit,yes,1.0,monthly,Archer Heights,True
+2026-10-20,India,INR,Western Union,300.0,4.18,83.8726,25161.78,debit_card,bank_deposit,no,,monthly,Belmont Cragin,True
+2026-10-29,Mexico,MXN,Western Union,200.0,4.56,17.8962,3579.24,cash,cash_pickup,no,,monthly,Gage Park,True
+2026-11-01,India,INR,Xoom,600.0,3.61,85.3552,51213.12,cash,bank_deposit,no,,monthly,South Lawndale,True
+2026-11-10,Mexico,MXN,Ria,200.0,3.56,18.1146,3622.92,debit_card,mobile_wallet,no,,few_per_year,Archer Heights,True
+2026-10-25,India,INR,Xoom,500.0,3.96,84.9091,42454.55,bank_account,bank_deposit,no,,monthly,Hermosa,True
+2026-10-14,Mexico,MXN,MoneyGram,150.0,5.3,18.1596,2723.94,cash,mobile_wallet,no,,twice_monthly,Brighton Park,True
+2026-10-14,Mexico,MXN,Ria,400.0,3.06,18.1068,7242.72,cash,cash_pickup,unsure,,few_per_year,Chicago Lawn,True
+2026-11-04,Mexico,MXN,Ria,600.0,4.29,18.1554,10893.24,cash,bank_deposit,yes,6.0,few_per_year,Albany Park,True
+2026-11-07,India,INR,Western Union,150.0,5.59,83.943,12591.45,debit_card,bank_deposit,no,,twice_monthly,Portage Park,True
+2026-11-01,Mexico,MXN,Western Union,500.0,5.52,17.6198,8809.9,cash,cash_pickup,no,,weekly,West Ridge,True
+2026-10-21,Philippines,PHP,Remitly,600.0,1.22,56.6734,34004.04,cash,bank_deposit,yes,6.0,monthly,Belmont Cragin,True
+2026-10-28,Mexico,MXN,Ria,300.0,3.65,18.0056,5401.68,debit_card,cash_pickup,no,,few_per_year,Gage Park,True
+2026-11-06,Mexico,MXN,Wise,150.0,2.21,18.3096,2746.44,bank_account,cash_pickup,no,,monthly,Archer Heights,True
+2026-10-19,India,INR,MoneyGram,100.0,5.61,84.7461,8474.61,bank_account,bank_deposit,no,,monthly,Lower West Side,True
+2026-10-13,Mexico,MXN,Remitly,150.0,2.24,18.4578,2768.67,cash,cash_pickup,yes,1.5,few_per_year,Albany Park,True
+2026-10-22,Philippines,PHP,Remitly,600.0,0.42,56.6342,33980.52,cash,bank_deposit,no,,monthly,Rogers Park,True
+2026-10-16,Philippines,PHP,MoneyGram,150.0,2.82,54.8871,8233.06,credit_card,bank_deposit,no,,monthly,West Ridge,True
+2026-11-09,India,INR,Western Union,200.0,4.38,83.7422,16748.44,bank_account,mobile_wallet,no,,monthly,Brighton Park,True
+2026-10-05,India,INR,Western Union,500.0,3.78,85.5402,42770.1,cash,bank_deposit,yes,5.0,monthly,Brighton Park,True
+2026-10-07,Mexico,MXN,Western Union,300.0,4.18,18.0546,5416.38,debit_card,cash_pickup,no,,monthly,Gage Park,True
+2026-10-18,Philippines,PHP,Western Union,400.0,4.43,54.7382,21895.28,bank_account,bank_deposit,no,,few_per_year,Belmont Cragin,True
+2026-10-21,India,INR,MoneyGram,500.0,5.54,86.1822,43091.1,bank_account,cash_pickup,no,,twice_monthly,Gage Park,True
+2026-10-23,Philippines,PHP,Ria,500.0,3.78,57.008,28504.0,debit_card,bank_deposit,no,,twice_monthly,Brighton Park,True
+2026-10-08,Mexico,MXN,MoneyGram,300.0,3.94,18.0117,5403.51,cash,bank_deposit,no,,monthly,West Ridge,True
+2026-10-25,Mexico,MXN,Ria,150.0,4.0,18.1841,2727.62,cash,bank_deposit,no,,twice_monthly,Portage Park,True
+2026-10-18,Mexico,MXN,Remitly,600.0,2.11,18.3113,10986.78,bank_account,cash_pickup,no,,weekly,Belmont Cragin,True
+2026-10-28,Mexico,MXN,Remitly,250.0,3.69,18.2277,4556.92,debit_card,cash_pickup,no,,few_per_year,South Lawndale,True
+2026-10-04,Mexico,MXN,Remitly,300.0,3.23,18.3936,5518.08,credit_card,bank_deposit,no,,monthly,Rogers Park,True
+2026-10-26,Mexico,MXN,Ria,150.0,3.89,18.1757,2726.36,bank_account,cash_pickup,no,,twice_monthly,Brighton Park,True
+2026-10-22,Mexico,MXN,Xoom,100.0,4.6,17.7822,1778.22,debit_card,bank_deposit,no,,monthly,South Lawndale,True
+2026-11-01,Mexico,MXN,MoneyGram,400.0,4.62,18.2166,7286.64,debit_card,bank_deposit,no,,twice_monthly,Albany Park,True
+2026-10-23,Mexico,MXN,Ria,600.0,4.84,18.1956,10917.36,cash,cash_pickup,no,,twice_monthly,Gage Park,True

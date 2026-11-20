@@ -1,0 +1,17 @@
+destination_country,community_area,quarter,n,median_cost_pct,median_cost_usd,median_annual_cost_usd,rpw_corridor_median_pct,rpw_cheapest_pct,rpw_n_services,rpw_period,gap_to_rpw_median_pct,is_synthetic
+India,All Chicago (any area),2026_4Q,35,12.42,36.16,433.92,2.75,0.42,46,2025_3Q,9.67,True
+India,South Lawndale,2026_4Q,5,12.05,36.16,433.92,2.75,0.42,46,2025_3Q,9.3,True
+Mexico,Albany Park,2026_4Q,8,3.84,14.12,118.8,4.48,0.39,46,2025_3Q,-0.65,True
+Mexico,All Chicago (any area),2026_4Q,132,3.94,9.93,126.24,4.48,0.39,46,2025_3Q,-0.54,True
+Mexico,Archer Heights,2026_4Q,18,2.78,7.64,64.86,4.48,0.39,46,2025_3Q,-1.7,True
+Mexico,Avondale,2026_4Q,7,4.33,10.62,254.88,4.48,0.39,46,2025_3Q,-0.15,True
+Mexico,Belmont Cragin,2026_4Q,9,2.98,8.95,117.0,4.48,0.39,46,2025_3Q,-1.5,True
+Mexico,Brighton Park,2026_4Q,16,4.65,12.73,165.66,4.48,0.39,46,2025_3Q,0.17,True
+Mexico,Chicago Lawn,2026_4Q,11,4.1,12.31,87.36,4.48,0.39,46,2025_3Q,-0.38,True
+Mexico,Gage Park,2026_4Q,13,4.57,12.57,162.6,4.48,0.39,46,2025_3Q,0.09,True
+Mexico,Hermosa,2026_4Q,7,2.39,7.14,85.68,4.48,0.39,46,2025_3Q,-2.09,True
+Mexico,Portage Park,2026_4Q,5,2.74,2.74,65.76,4.48,0.39,46,2025_3Q,-1.74,True
+Mexico,South Lawndale,2026_4Q,18,4.85,9.78,122.16,4.48,0.39,46,2025_3Q,0.37,True
+Mexico,West Ridge,2026_4Q,11,4.23,9.83,158.16,4.48,0.39,46,2025_3Q,-0.25,True
+Philippines,Albany Park,2026_4Q,5,14.18,37.53,1108.32,3.96,0.58,58,2025_3Q,10.22,True
+Philippines,All Chicago (any area),2026_4Q,33,12.51,37.53,626.04,3.96,0.58,58,2025_3Q,8.55,True
